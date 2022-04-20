@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/128/25/25471.png" style="margin:0 auto;">
+<center><img src="https://cdn-icons-png.flaticon.com/128/25/25471.png" style="margin:0 auto;"></center>
 
 ## Hi all Mandeep Singh here!! <img src="https://cdn-icons.flaticon.com/png/128/4191/premium/4191141.png?token=exp=1650464997~hmac=09465f7b85dfded95ef8d12e174a6c72" style="max-width:10%;">
 ## :house_with_garden: Second year Computer Science student at CGC,Landran,Mohali.
@@ -6,7 +6,7 @@
 
 # Work Experience
 ## 🏢 Selected for Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)
-## 🏢 Data Science and Business analytics intern at Sparks Foundation.(https://www.sparksfoundation.org/)
+## 🏢 Data Science and Business analytics intern at [Sparks Foundation](https://www.sparksfoundation.org/).
 
 <h2 align="center">Contact me :handshake:</h2>
 <p align="center">
