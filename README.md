@@ -6,7 +6,7 @@
 
 # Work Experience
 ## 🏢 Selected for Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)
-## 🏢 Data Science and Business analytics intern at Sparks Foundation.(https://www.thesparksfoundationsingapore.org/)
+## 🏢 Data Science and Business analytics intern at Sparks Foundation.(https://www.sparksfoundation.org/)
 
 <h2 align="center">Contact me :handshake:</h2>
 <p align="center">
