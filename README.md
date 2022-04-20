@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/Sourav61/Sourav61/main/OIP.jpg">
 
 ## Hi all Mandeep Singh here!! <img src="https://raw.githubusercontent.com/Sourav61/Sourav61/main/character.gif" style="max-width:10%;">
-## :house_with_garden: First year Computer Science student at CGC,Landran,Mohali.
-## :computer: I am currently learning  Machine Learning.
+## :house_with_garden: Second year Computer Science student at CGC,Landran,Mohali.
+## :computer: I am currently learning  Web Development.
 
 # Work Experience
 ## 🏢 Selected for Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)
+## 🏢 Data Science and Business analytics intern at Sparks Foundation.(https://www.thesparksfoundationsingapore.org/)
 
 <h2 align="center">Contact me :handshake:</h2>
 <p align="center">
