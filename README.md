@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/128/25/25471.png" style="margin=auto">
+<img src="https://cdn-icons-png.flaticon.com/128/25/25471.png" style="margin:auto">
 
 ## Hi all Mandeep Singh here!! <img src="https://cdn-icons.flaticon.com/png/128/4191/premium/4191141.png?token=exp=1650464997~hmac=09465f7b85dfded95ef8d12e174a6c72" style="max-width:10%;">
 ## :house_with_garden: Second year Computer Science student at CGC,Landran,Mohali.
