@@ -2,7 +2,7 @@
 
 ## Hi all Mandeep Singh here!! 
 ## :house_with_garden: Second year Computer Science student at CGC,Landran,Mohali.
-## :computer: I am currently learning  Web Development.
+## :computer: I am currently learning  Web Development and DSA.
 
 # Work Experience
 ## 🏢 Selected for Machine Learning Scholarship Programme by [Devincept](https://devincept.tech/)
